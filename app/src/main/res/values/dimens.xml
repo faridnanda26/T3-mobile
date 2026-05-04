@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top_layout">60dp</dimen>
+
+    <dimen name="padding_horizontal">20dp</dimen>
+
+    <dimen name="padding_default">12dp</dimen>
+    <dimen name="padding_hasil">15dp</dimen>
+
+    <dimen name="margin_top_form">10dp</dimen>
+    <dimen name="margin_top_label">10dp</dimen>
+    <dimen name="margin_top_hasil">20dp</dimen>
+
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_result">18sp</dimen>
+    <dimen name="text_size_button">16sp</dimen>
+    <dimen name="text_size_label">14sp</dimen>
+</resources>
