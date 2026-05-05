@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
             hasil.text = hasilText
             hasil.setBackgroundColor(android.graphics.Color.parseColor("#c7d5ff"))
             hasil.setTypeface(null, android.graphics.Typeface.NORMAL)
-            hasil.setTextColor(android.graphics.Color.parseColor("#000"))
+            hasil.setTextColor(android.graphics.Color.parseColor("#000000"))
         }
     }
 }

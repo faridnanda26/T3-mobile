@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Form Pendaftaran</string>
     <string name="title">Form Pendaftaran</string>
     <string name="nama_lengkap">Nama Lengkap</string>
     <string name="hint_nama">Masukan Nama...</string>
